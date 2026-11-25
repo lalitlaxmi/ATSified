@@ -1,0 +1,217 @@
+{
+ "Python": [
+  {
+   "type": "Course",
+   "title": "Kaggle Learn: Python (free, with certificate)",
+   "url": "https://www.kaggle.com/learn/python"
+  }
+ ],
+ "Pandas": [
+  {
+   "type": "Course",
+   "title": "Kaggle Learn: Pandas (free, with certificate)",
+   "url": "https://www.kaggle.com/learn/pandas"
+  },
+  {
+   "type": "Docs",
+   "title": "Official pandas getting-started tutorials",
+   "url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html"
+  }
+ ],
+ "NumPy": [
+  {
+   "type": "Docs",
+   "title": "NumPy: official learn page",
+   "url": "https://numpy.org/learn/"
+  }
+ ],
+ "SQL": [
+  {
+   "type": "Course",
+   "title": "Kaggle Learn: Intro to SQL (free, with certificate)",
+   "url": "https://www.kaggle.com/learn/intro-to-sql"
+  }
+ ],
+ "Data Visualization": [
+  {
+   "type": "Course",
+   "title": "Kaggle Learn: Data Visualization (free)",
+   "url": "https://www.kaggle.com/learn/data-visualization"
+  }
+ ],
+ "Machine Learning": [
+  {
+   "type": "Course",
+   "title": "Kaggle Learn: Intro to Machine Learning (free)",
+   "url": "https://www.kaggle.com/learn/intro-to-machine-learning"
+  }
+ ],
+ "Excel": [
+  {
+   "type": "Certification",
+   "title": "Google Data Analytics Certificate (financial aid available)",
+   "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+  }
+ ],
+ "JavaScript": [
+  {
+   "type": "Docs",
+   "title": "The Modern JavaScript Tutorial",
+   "url": "https://javascript.info/"
+  }
+ ],
+ "React": [
+  {
+   "type": "Docs",
+   "title": "Official React learn guide",
+   "url": "https://react.dev/learn"
+  }
+ ],
+ "HTML": [
+  {
+   "type": "Docs",
+   "title": "MDN: Learn web development",
+   "url": "https://developer.mozilla.org/en-US/docs/Learn"
+  }
+ ],
+ "CSS": [
+  {
+   "type": "Docs",
+   "title": "MDN: Learn web development",
+   "url": "https://developer.mozilla.org/en-US/docs/Learn"
+  }
+ ],
+ "Node.js": [
+  {
+   "type": "Docs",
+   "title": "Official Node.js learn page",
+   "url": "https://nodejs.org/en/learn"
+  }
+ ],
+ "Git": [
+  {
+   "type": "Docs",
+   "title": "Pro Git book (free)",
+   "url": "https://git-scm.com/book/en/v2"
+  }
+ ],
+ "Docker": [
+  {
+   "type": "Docs",
+   "title": "Docker: get started (official)",
+   "url": "https://docs.docker.com/get-started/"
+  }
+ ],
+ "Kubernetes": [
+  {
+   "type": "Docs",
+   "title": "Kubernetes tutorials (official)",
+   "url": "https://kubernetes.io/docs/tutorials/"
+  }
+ ],
+ "Linux": [
+  {
+   "type": "Docs",
+   "title": "Linux Journey (free)",
+   "url": "https://linuxjourney.com/"
+  }
+ ],
+ "TypeScript": [
+  {
+   "type": "Docs",
+   "title": "TypeScript documentation",
+   "url": "https://www.typescriptlang.org/docs/"
+  }
+ ],
+ "Java": [
+  {
+   "type": "Docs",
+   "title": "dev.java: learn Java",
+   "url": "https://dev.java/learn/"
+  }
+ ],
+ "C++": [
+  {
+   "type": "Docs",
+   "title": "learncpp.com (free)",
+   "url": "https://www.learncpp.com/"
+  }
+ ],
+ "AWS": [
+  {
+   "type": "Docs",
+   "title": "AWS digital training (free tier)",
+   "url": "https://aws.amazon.com/training/digital/"
+  }
+ ],
+ "MongoDB": [
+  {
+   "type": "Docs",
+   "title": "MongoDB University (free)",
+   "url": "https://learn.mongodb.com/"
+  }
+ ],
+ "Django": [
+  {
+   "type": "Docs",
+   "title": "Django tutorial (official)",
+   "url": "https://docs.djangoproject.com/en/stable/intro/tutorial01/"
+  }
+ ],
+ "Flask": [
+  {
+   "type": "Docs",
+   "title": "Flask tutorial (official)",
+   "url": "https://flask.palletsprojects.com/en/stable/tutorial/"
+  }
+ ],
+ "Spring Boot": [
+  {
+   "type": "Docs",
+   "title": "Spring guides",
+   "url": "https://spring.io/guides"
+  }
+ ],
+ "TensorFlow": [
+  {
+   "type": "Docs",
+   "title": "TensorFlow tutorials",
+   "url": "https://www.tensorflow.org/tutorials"
+  }
+ ],
+ "PyTorch": [
+  {
+   "type": "Docs",
+   "title": "PyTorch tutorials",
+   "url": "https://pytorch.org/tutorials/"
+  }
+ ],
+ "Selenium": [
+  {
+   "type": "Docs",
+   "title": "Selenium documentation",
+   "url": "https://www.selenium.dev/documentation/"
+  }
+ ],
+ "Power BI": [
+  {
+   "type": "Docs",
+   "title": "Microsoft Learn: Power BI",
+   "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi"
+  }
+ ],
+ "Tableau": [
+  {
+   "type": "Docs",
+   "title": "Tableau free training videos",
+   "url": "https://www.tableau.com/learn/training"
+  }
+ ],
+ "Angular": [
+  {
+   "type": "Docs",
+   "title": "Angular tutorials (official)",
+   "url": "https://angular.dev/tutorials"
+  }
+ ]
+}

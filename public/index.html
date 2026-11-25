@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ATSified - free resume check for students</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="nav"><b>ATS<span>ified</span></b><nav><a href="#top">Analyze</a><a href="#history">My progress</a></nav></header>
+<main id="top">
+  <section class="hero">
+    <div class="pitch">
+      <span class="pill">Free for every student</span>
+      <h1>Get your resume <em>ATS-ready</em> and know what to learn next.</h1>
+      <p>Upload your resume, pick a role, and get a score, your skill gaps, free courses and a week-by-week plan.</p>
+      <div class="feats"><div><b>01</b>Score out of 10</div><div><b>02</b>Skill gaps</div><div><b>03</b>Free resources</div><div><b>04</b>Weekly roadmap</div></div>
+    </div>
+    <form id="form" class="card">
+      <label class="drop" id="drop"><input type="file" name="resume" id="file" accept=".pdf,.docx,.txt" hidden>
+        <span class="ico">&#8679;</span><strong id="fileName">Drop your resume here or click to browse</strong><small>PDF, DOCX or TXT &middot; up to 4 MB &middot; not stored</small></label>
+      <div class="seg"><label><input type="radio" name="mode" value="role" checked><span>Pick a role</span></label><label><input type="radio" name="mode" value="jd"><span>Paste a job description</span></label></div>
+      <select name="role" id="roles" aria-label="Job role"></select>
+      <textarea name="jd" id="jd" rows="6" placeholder="Paste the full job description here" hidden></textarea>
+      <input type="text" name="label" id="label" maxlength="40" placeholder="Resume name (optional) - groups your progress">
+      <label class="slider">Study time per week <output id="hrsOut">8 hrs</output><input type="range" name="hours" min="2" max="30" value="8"></label>
+      <button id="go" type="submit">Analyze my resume</button><p id="error" class="error" role="alert"></p>
+    </form>
+  </section>
+
+  <section id="loading" class="load card" hidden><div class="spin"></div><ul id="steps"><li>Reading your resume</li><li>Matching skills to the role</li><li>Checking ATS format</li><li>Building your roadmap</li></ul></section>
+
+  <section id="results" hidden>
+    <div class="sum card">
+      <div class="ringbox"><svg viewBox="0 0 120 120" class="ring"><circle class="track" cx="60" cy="60" r="54"/><circle class="arc" id="arc" cx="60" cy="60" r="54"/></svg><div class="num"><b id="score">0</b><small>/10</small></div></div>
+      <div class="sinfo"><span id="verdict" class="verdict"></span><h2 id="roleName"></h2><div class="bars" id="bars"></div><p id="facts"></p><button type="button" class="ghost no-print" id="print">Download report (PDF)</button></div>
+    </div>
+    <nav class="tabs" id="tabs">
+      <button data-t="overview" class="on">Overview</button><button data-t="skills">Skills</button><button data-t="courses">Courses &amp; resources</button><button data-t="road">Roadmap</button><button data-t="text">Resume text</button><i id="ind"></i>
+    </nav>
+    <div id="p-overview" class="pane"></div><div id="p-skills" class="pane" hidden></div><div id="p-courses" class="pane" hidden></div><div id="p-road" class="pane" hidden></div><div id="p-text" class="pane" hidden></div>
+  </section>
+
+  <section id="history" hidden><h2>Your progress on this device</h2><div class="card hist" id="hist"></div></section>
+</main>
+<footer>Built for the Web Technology mini project. Scores are estimates, not a guarantee of how any real ATS will rank you.</footer>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,960 @@
+{
+ "data-analyst": {
+  "name": "Data Analyst",
+  "description": "data analyst with skills in python, sql, excel, pandas, numpy, statistics, tableau, power bi, data visualization.",
+  "skills": {
+   "Python": [
+    "python",
+    3,
+    20
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    3,
+    15
+   ],
+   "Excel": [
+    "excel|spreadsheets",
+    2,
+    8
+   ],
+   "Pandas": [
+    "pandas",
+    3,
+    12
+   ],
+   "NumPy": [
+    "numpy",
+    2,
+    8
+   ],
+   "Statistics": [
+    "statistics|statistical",
+    2,
+    15
+   ],
+   "Tableau": [
+    "tableau",
+    2,
+    10
+   ],
+   "Power BI": [
+    "power bi|powerbi",
+    2,
+    10
+   ],
+   "Data Visualization": [
+    "data visualization|data visualisation|matplotlib|seaborn",
+    2,
+    8
+   ]
+  }
+ },
+ "data-scientist": {
+  "name": "Data Scientist",
+  "description": "data scientist with skills in python, sql, pandas, numpy, statistics, machine learning, data visualization, deep learning, spark.",
+  "skills": {
+   "Python": [
+    "python",
+    3,
+    20
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    2,
+    15
+   ],
+   "Pandas": [
+    "pandas",
+    2,
+    12
+   ],
+   "NumPy": [
+    "numpy",
+    2,
+    8
+   ],
+   "Statistics": [
+    "statistics|statistical",
+    3,
+    15
+   ],
+   "Machine Learning": [
+    "machine learning|scikit-learn|sklearn",
+    3,
+    30
+   ],
+   "Data Visualization": [
+    "data visualization|data visualisation|matplotlib|seaborn",
+    2,
+    8
+   ],
+   "Deep Learning": [
+    "deep learning|neural network|neural networks",
+    1,
+    30
+   ],
+   "Spark": [
+    "spark|pyspark|hadoop",
+    1,
+    20
+   ]
+  }
+ },
+ "machine-learning-engineer": {
+  "name": "Machine Learning Engineer",
+  "description": "machine learning engineer with skills in python, machine learning, deep learning, tensorflow, pytorch, pandas, numpy, nlp, sql, docker.",
+  "skills": {
+   "Python": [
+    "python",
+    3,
+    20
+   ],
+   "Machine Learning": [
+    "machine learning|scikit-learn|sklearn",
+    3,
+    30
+   ],
+   "Deep Learning": [
+    "deep learning|neural network|neural networks",
+    2,
+    30
+   ],
+   "TensorFlow": [
+    "tensorflow|keras",
+    2,
+    20
+   ],
+   "PyTorch": [
+    "pytorch",
+    2,
+    20
+   ],
+   "Pandas": [
+    "pandas",
+    2,
+    12
+   ],
+   "NumPy": [
+    "numpy",
+    2,
+    8
+   ],
+   "NLP": [
+    "nlp|natural language processing",
+    2,
+    20
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    1,
+    15
+   ],
+   "Docker": [
+    "docker",
+    1,
+    10
+   ]
+  }
+ },
+ "data-engineer": {
+  "name": "Data Engineer",
+  "description": "data engineer with skills in python, sql, etl, spark, aws, docker, linux, git.",
+  "skills": {
+   "Python": [
+    "python",
+    3,
+    20
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    3,
+    15
+   ],
+   "ETL": [
+    "etl|data pipeline|airflow",
+    3,
+    15
+   ],
+   "Spark": [
+    "spark|pyspark|hadoop",
+    2,
+    20
+   ],
+   "AWS": [
+    "aws|amazon web services",
+    2,
+    20
+   ],
+   "Docker": [
+    "docker",
+    1,
+    10
+   ],
+   "Linux": [
+    "linux|unix",
+    1,
+    12
+   ],
+   "Git": [
+    "git|github",
+    1,
+    6
+   ]
+  }
+ },
+ "business-analyst": {
+  "name": "Business Analyst",
+  "description": "business analyst with skills in excel, sql, business analysis, power bi, tableau, agile, statistics.",
+  "skills": {
+   "Excel": [
+    "excel|spreadsheets",
+    3,
+    8
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    2,
+    15
+   ],
+   "Business Analysis": [
+    "business analysis|requirements gathering|stakeholder",
+    3,
+    10
+   ],
+   "Power BI": [
+    "power bi|powerbi",
+    2,
+    10
+   ],
+   "Tableau": [
+    "tableau",
+    1,
+    10
+   ],
+   "Agile": [
+    "agile|scrum",
+    1,
+    5
+   ],
+   "Statistics": [
+    "statistics|statistical",
+    1,
+    15
+   ]
+  }
+ },
+ "web-developer": {
+  "name": "Web Developer",
+  "description": "web developer with skills in html, css, javascript, react, node.js, git, rest api, mongodb, sql.",
+  "skills": {
+   "HTML": [
+    "html|html5",
+    3,
+    8
+   ],
+   "CSS": [
+    "css|css3|tailwind|sass",
+    3,
+    10
+   ],
+   "JavaScript": [
+    "javascript|js|es6",
+    3,
+    25
+   ],
+   "React": [
+    "react|reactjs|react.js",
+    3,
+    20
+   ],
+   "Node.js": [
+    "node.js|nodejs|node|express",
+    2,
+    15
+   ],
+   "Git": [
+    "git|github",
+    2,
+    6
+   ],
+   "REST API": [
+    "rest api|restful|rest apis|api",
+    2,
+    8
+   ],
+   "MongoDB": [
+    "mongodb|mongo",
+    1,
+    10
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    1,
+    15
+   ]
+  }
+ },
+ "frontend-developer": {
+  "name": "Frontend Developer",
+  "description": "frontend developer with skills in html, css, javascript, typescript, react, git, figma, testing.",
+  "skills": {
+   "HTML": [
+    "html|html5",
+    3,
+    8
+   ],
+   "CSS": [
+    "css|css3|tailwind|sass",
+    3,
+    10
+   ],
+   "JavaScript": [
+    "javascript|js|es6",
+    3,
+    25
+   ],
+   "TypeScript": [
+    "typescript",
+    2,
+    12
+   ],
+   "React": [
+    "react|reactjs|react.js",
+    3,
+    20
+   ],
+   "Git": [
+    "git|github",
+    2,
+    6
+   ],
+   "Figma": [
+    "figma",
+    1,
+    10
+   ],
+   "Testing": [
+    "unit testing|testing|junit|pytest",
+    1,
+    8
+   ]
+  }
+ },
+ "backend-developer": {
+  "name": "Backend Developer",
+  "description": "backend developer with skills in node.js, sql, rest api, mongodb, docker, git, testing, system design.",
+  "skills": {
+   "Node.js": [
+    "node.js|nodejs|node|express",
+    3,
+    15
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    3,
+    15
+   ],
+   "REST API": [
+    "rest api|restful|rest apis|api",
+    3,
+    8
+   ],
+   "MongoDB": [
+    "mongodb|mongo",
+    2,
+    10
+   ],
+   "Docker": [
+    "docker",
+    2,
+    10
+   ],
+   "Git": [
+    "git|github",
+    2,
+    6
+   ],
+   "Testing": [
+    "unit testing|testing|junit|pytest",
+    1,
+    8
+   ],
+   "System Design": [
+    "system design",
+    1,
+    20
+   ]
+  }
+ },
+ "full-stack-developer": {
+  "name": "Full Stack Developer",
+  "description": "full stack developer with skills in html, css, javascript, react, node.js, mongodb, sql, git, rest api.",
+  "skills": {
+   "HTML": [
+    "html|html5",
+    2,
+    8
+   ],
+   "CSS": [
+    "css|css3|tailwind|sass",
+    2,
+    10
+   ],
+   "JavaScript": [
+    "javascript|js|es6",
+    3,
+    25
+   ],
+   "React": [
+    "react|reactjs|react.js",
+    3,
+    20
+   ],
+   "Node.js": [
+    "node.js|nodejs|node|express",
+    3,
+    15
+   ],
+   "MongoDB": [
+    "mongodb|mongo",
+    2,
+    10
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    2,
+    15
+   ],
+   "Git": [
+    "git|github",
+    2,
+    6
+   ],
+   "REST API": [
+    "rest api|restful|rest apis|api",
+    2,
+    8
+   ]
+  }
+ },
+ "software-engineer": {
+  "name": "Software Engineer",
+  "description": "software engineer with skills in data structures, algorithms, java, python, c++, oop, sql, git, system design, testing.",
+  "skills": {
+   "Data Structures": [
+    "data structures|dsa",
+    3,
+    30
+   ],
+   "Algorithms": [
+    "algorithms|algorithm",
+    3,
+    25
+   ],
+   "Java": [
+    "java",
+    2,
+    25
+   ],
+   "Python": [
+    "python",
+    2,
+    20
+   ],
+   "C++": [
+    "c++",
+    1,
+    25
+   ],
+   "OOP": [
+    "oop|object oriented|object-oriented",
+    2,
+    10
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    2,
+    15
+   ],
+   "Git": [
+    "git|github",
+    2,
+    6
+   ],
+   "System Design": [
+    "system design",
+    1,
+    20
+   ],
+   "Testing": [
+    "unit testing|testing|junit|pytest",
+    1,
+    8
+   ]
+  }
+ },
+ "java-developer": {
+  "name": "Java Developer",
+  "description": "java developer with skills in java, spring boot, sql, oop, rest api, git, testing, docker.",
+  "skills": {
+   "Java": [
+    "java",
+    3,
+    25
+   ],
+   "Spring Boot": [
+    "spring boot|spring",
+    3,
+    20
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    2,
+    15
+   ],
+   "OOP": [
+    "oop|object oriented|object-oriented",
+    2,
+    10
+   ],
+   "REST API": [
+    "rest api|restful|rest apis|api",
+    2,
+    8
+   ],
+   "Git": [
+    "git|github",
+    2,
+    6
+   ],
+   "Testing": [
+    "unit testing|testing|junit|pytest",
+    1,
+    8
+   ],
+   "Docker": [
+    "docker",
+    1,
+    10
+   ]
+  }
+ },
+ "python-developer": {
+  "name": "Python Developer",
+  "description": "python developer with skills in python, django, flask, sql, rest api, git, testing, docker.",
+  "skills": {
+   "Python": [
+    "python",
+    3,
+    20
+   ],
+   "Django": [
+    "django",
+    2,
+    15
+   ],
+   "Flask": [
+    "flask",
+    2,
+    10
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    2,
+    15
+   ],
+   "REST API": [
+    "rest api|restful|rest apis|api",
+    2,
+    8
+   ],
+   "Git": [
+    "git|github",
+    2,
+    6
+   ],
+   "Testing": [
+    "unit testing|testing|junit|pytest",
+    1,
+    8
+   ],
+   "Docker": [
+    "docker",
+    1,
+    10
+   ]
+  }
+ },
+ "android-developer": {
+  "name": "Android Developer",
+  "description": "android developer with skills in android, java, rest api, git, testing, ui/ux.",
+  "skills": {
+   "Android": [
+    "android|kotlin",
+    3,
+    25
+   ],
+   "Java": [
+    "java",
+    2,
+    25
+   ],
+   "REST API": [
+    "rest api|restful|rest apis|api",
+    2,
+    8
+   ],
+   "Git": [
+    "git|github",
+    2,
+    6
+   ],
+   "Testing": [
+    "unit testing|testing|junit|pytest",
+    1,
+    8
+   ],
+   "UI/UX": [
+    "ui/ux|ux design|user research|wireframing",
+    1,
+    15
+   ]
+  }
+ },
+ "flutter-developer": {
+  "name": "Flutter Developer",
+  "description": "flutter developer with skills in flutter, rest api, git, ui/ux, testing.",
+  "skills": {
+   "Flutter": [
+    "flutter|dart",
+    3,
+    20
+   ],
+   "REST API": [
+    "rest api|restful|rest apis|api",
+    2,
+    8
+   ],
+   "Git": [
+    "git|github",
+    2,
+    6
+   ],
+   "UI/UX": [
+    "ui/ux|ux design|user research|wireframing",
+    1,
+    15
+   ],
+   "Testing": [
+    "unit testing|testing|junit|pytest",
+    1,
+    8
+   ]
+  }
+ },
+ "devops-engineer": {
+  "name": "DevOps Engineer",
+  "description": "devops engineer with skills in linux, docker, kubernetes, ci/cd, aws, git, python.",
+  "skills": {
+   "Linux": [
+    "linux|unix",
+    3,
+    12
+   ],
+   "Docker": [
+    "docker",
+    3,
+    10
+   ],
+   "Kubernetes": [
+    "kubernetes|k8s",
+    2,
+    15
+   ],
+   "CI/CD": [
+    "ci/cd|jenkins|github actions",
+    3,
+    10
+   ],
+   "AWS": [
+    "aws|amazon web services",
+    2,
+    20
+   ],
+   "Git": [
+    "git|github",
+    2,
+    6
+   ],
+   "Python": [
+    "python",
+    1,
+    20
+   ]
+  }
+ },
+ "cloud-engineer": {
+  "name": "Cloud Engineer",
+  "description": "cloud engineer with skills in aws, azure, gcp, linux, docker, networking, python.",
+  "skills": {
+   "AWS": [
+    "aws|amazon web services",
+    3,
+    20
+   ],
+   "Azure": [
+    "azure",
+    2,
+    20
+   ],
+   "GCP": [
+    "gcp|google cloud",
+    1,
+    20
+   ],
+   "Linux": [
+    "linux|unix",
+    2,
+    12
+   ],
+   "Docker": [
+    "docker",
+    2,
+    10
+   ],
+   "Networking": [
+    "networking|tcp/ip|routing",
+    2,
+    15
+   ],
+   "Python": [
+    "python",
+    1,
+    20
+   ]
+  }
+ },
+ "cybersecurity-analyst": {
+  "name": "Cybersecurity Analyst",
+  "description": "cybersecurity analyst with skills in cybersecurity, networking, linux, python, sql.",
+  "skills": {
+   "Cybersecurity": [
+    "cybersecurity|cyber security|network security",
+    3,
+    25
+   ],
+   "Networking": [
+    "networking|tcp/ip|routing",
+    3,
+    15
+   ],
+   "Linux": [
+    "linux|unix",
+    2,
+    12
+   ],
+   "Python": [
+    "python",
+    1,
+    20
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    1,
+    15
+   ]
+  }
+ },
+ "qa-test-engineer": {
+  "name": "QA / Test Engineer",
+  "description": "qa / test engineer with skills in testing, selenium, python, java, sql, git, agile, rest api.",
+  "skills": {
+   "Testing": [
+    "unit testing|testing|junit|pytest",
+    3,
+    8
+   ],
+   "Selenium": [
+    "selenium",
+    3,
+    12
+   ],
+   "Python": [
+    "python",
+    1,
+    20
+   ],
+   "Java": [
+    "java",
+    1,
+    25
+   ],
+   "SQL": [
+    "sql|mysql|postgresql",
+    1,
+    15
+   ],
+   "Git": [
+    "git|github",
+    1,
+    6
+   ],
+   "Agile": [
+    "agile|scrum",
+    1,
+    5
+   ],
+   "REST API": [
+    "rest api|restful|rest apis|api",
+    1,
+    8
+   ]
+  }
+ },
+ "ui-ux-designer": {
+  "name": "UI/UX Designer",
+  "description": "ui/ux designer with skills in figma, ui/ux, html, css.",
+  "skills": {
+   "Figma": [
+    "figma",
+    3,
+    10
+   ],
+   "UI/UX": [
+    "ui/ux|ux design|user research|wireframing",
+    3,
+    15
+   ],
+   "HTML": [
+    "html|html5",
+    1,
+    8
+   ],
+   "CSS": [
+    "css|css3|tailwind|sass",
+    1,
+    10
+   ]
+  }
+ },
+ "computer-vision-engineer": {
+  "name": "Computer Vision Engineer",
+  "description": "computer vision engineer with skills in python, computer vision, deep learning, pytorch, tensorflow, numpy.",
+  "skills": {
+   "Python": [
+    "python",
+    3,
+    20
+   ],
+   "Computer Vision": [
+    "computer vision|opencv",
+    3,
+    20
+   ],
+   "Deep Learning": [
+    "deep learning|neural network|neural networks",
+    3,
+    30
+   ],
+   "PyTorch": [
+    "pytorch",
+    2,
+    20
+   ],
+   "TensorFlow": [
+    "tensorflow|keras",
+    1,
+    20
+   ],
+   "NumPy": [
+    "numpy",
+    2,
+    8
+   ]
+  }
+ },
+ "nlp-engineer": {
+  "name": "NLP Engineer",
+  "description": "nlp engineer with skills in python, nlp, deep learning, pytorch, tensorflow, machine learning.",
+  "skills": {
+   "Python": [
+    "python",
+    3,
+    20
+   ],
+   "NLP": [
+    "nlp|natural language processing",
+    3,
+    20
+   ],
+   "Deep Learning": [
+    "deep learning|neural network|neural networks",
+    2,
+    30
+   ],
+   "PyTorch": [
+    "pytorch",
+    2,
+    20
+   ],
+   "TensorFlow": [
+    "tensorflow|keras",
+    1,
+    20
+   ],
+   "Machine Learning": [
+    "machine learning|scikit-learn|sklearn",
+    2,
+    30
+   ]
+  }
+ },
+ "network-engineer": {
+  "name": "Network Engineer",
+  "description": "network engineer with skills in networking, linux, cybersecurity.",
+  "skills": {
+   "Networking": [
+    "networking|tcp/ip|routing",
+    3,
+    15
+   ],
+   "Linux": [
+    "linux|unix",
+    2,
+    12
+   ],
+   "Cybersecurity": [
+    "cybersecurity|cyber security|network security",
+    1,
+    25
+   ]
+  }
+ },
+ "blockchain-developer": {
+  "name": "Blockchain Developer",
+  "description": "blockchain developer with skills in blockchain, javascript, git, node.js.",
+  "skills": {
+   "Blockchain": [
+    "blockchain|solidity|web3",
+    3,
+    25
+   ],
+   "JavaScript": [
+    "javascript|js|es6",
+    2,
+    25
+   ],
+   "Git": [
+    "git|github",
+    1,
+    6
+   ],
+   "Node.js": [
+    "node.js|nodejs|node|express",
+    1,
+    15
+   ]
+  }
+ }
+}
